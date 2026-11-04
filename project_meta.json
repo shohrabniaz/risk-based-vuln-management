@@ -1,10 +1,17 @@
 {
-  "seq": 22,
   "title": "Establishing a Risk-Based Vulnerability Management Program for a Manufacturing SME",
-  "slug": "establishing-a-risk-based-vulnerability-management-prog",
+  "old_slug": "establishing-a-risk-based-vulnerability-management-prog",
+  "slug": "risk-based-vuln-management",
   "folder": "Establishing_A_Risk_Based_Vulnerability_Management_Prog",
   "kind": "vuln",
-  "body_words": 252,
+  "body_words": 320,
+  "source": "SCI700",
   "project_id": "Project 10",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
